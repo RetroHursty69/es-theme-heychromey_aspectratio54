@@ -1,0 +1,10 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system,video,detailed,basic">
+		<image name="logo">
+			<path>./_inc/system.png</path>
+		</image>
+	</view>			
+</theme>
